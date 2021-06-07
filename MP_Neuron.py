@@ -1,7 +1,6 @@
 from sklearn.metrics import accuracy_score
 import numpy as np
 
-
 class MPNeuron:
 
     def __inti__(self):
